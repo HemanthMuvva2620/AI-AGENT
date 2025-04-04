@@ -1,10 +1,10 @@
-AI Agents: Math Solver
+# AI Agents: Math Solver
 
-Project Overview
+# Project Overview
 
 This repository contains Jupyter Notebooks that leverage AI-powered agents to solve mathematical problems efficiently. The project utilizes LangChain, OpenAI APIs, and other tools to process mathematical queries and provide step-by-step solutions.
 
-Features
+# Features
 
 AI-driven math problem-solving using LangChain and OpenAI.
 
@@ -14,7 +14,7 @@ Interactive querying system for solving various mathematical problems.
 
 Secure handling of API keys and environment variables.
 
-Installation
+# Installation
 
 To set up the environment and install required dependencies, follow these steps:
 
@@ -38,7 +38,7 @@ jupyter notebook
 
 Open the AI Agent Math Solver.ipynb file and follow the instructions.
 
-Usage
+# Usage
 
 Open the AI Agent Math Solver.ipynb notebook.
 
@@ -46,7 +46,7 @@ Follow the provided steps to input mathematical problems.
 
 Execute cells to obtain AI-generated solutions.
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -56,7 +56,7 @@ OpenAI API
 
 Jupyter Notebook
 
-Contributing
+# Contributing
 
 Contributions are welcome! To contribute:
 
@@ -68,7 +68,7 @@ Commit your changes and push to GitHub.
 
 Open a pull request for review.
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
